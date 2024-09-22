@@ -18,8 +18,8 @@ modules:
     sources:
       - type: archive
         archive-type: tar-gzip
-        url: https://api.github.com/repos/Arisotura/CoinKiller/tarball/Automated-2024-06-03
-        sha256: 6d7c966b52f2752f261e52bb0e1926fe8330810a767d4074fdb770039dd614e1
+        url: https://api.github.com/repos/ExplosBlue/CoinKiller/tarball/Automated-2024-09-14
+        sha256: 4085d28ed561a7eea0349d52d6df4257c4015f2e3cc0c358cac0bcd298df4fb6
         x-checker-data:
           type: json
           url: https://api.github.com/repos/Arisotura/CoinKiller/releases/latest
