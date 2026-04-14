@@ -4,14 +4,14 @@
   <id>io.github.Arisotura.CoinKiller</id>
   <name>CoinKiller</name>
   <summary>A level editor for NSMB2</summary>
-  <developer id="net.kuribo64">
-    <name>Arisotura</name>
+  <developer id="io.github.ExplosBlue">
+    <name>ExplosBlue</name>
   </developer>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
-  <url type="homepage">https://github.com/Arisotura/CoinKiller</url>
-  <url type="bugtracker">https://github.com/Arisotura/CoinKiller/issues</url>
-  <url type="vcs-browser">https://github.com/Arisotura/CoinKiller</url>
+  <url type="homepage">https://github.com/ExplosBlue/CoinKiller</url>
+  <url type="bugtracker">https://github.com/ExplosBlue/CoinKiller/issues</url>
+  <url type="vcs-browser">https://github.com/ExplosBlue/CoinKiller</url>
   <recommends>
     <control>pointing</control>
     <control>keyboard</control>
